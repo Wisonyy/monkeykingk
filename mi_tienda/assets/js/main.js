@@ -1,0 +1,1 @@
+// JS con AJAX irá aquí
